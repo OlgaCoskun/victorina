@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<questions>
+  <question seconds="10">
+    <text>В какую из этих игр играют не клюшкой?</text>
+    <variants>
+      <variant>Хоккей</variant>
+      <variant>Гольф</variant>
+      <variant right="true">Бильярд</variant>
+      <variant>Полло</variant>
+    </variants>
+  </question>
+
+  <question seconds="11">
+    <text>В каком городе не работал великий композитор 18-го века Кристоф Виллибальд Глюк?</text>
+    <variants>
+      <variant>Милан</variant>
+      <variant>Вена</variant>
+      <variant right="true">Берлин</variant>
+      <variant>Париж</variant>
+    </variants>
+  </question>
+
+  <question seconds="12">
+    <text>Кто первым доказал периодичность появления комет?</text>
+    <variants>
+      <variant>Галилей</variant>
+      <variant>Коперник</variant>
+      <variant right="true">Галлей</variant>
+      <variant>Кеплер</variant>
+    </variants>
+  </question>
+
+  <question seconds="11">
+    <text>Про какую летнюю погоду говорят "Вёдро" ?</text>
+    <variants>
+      <variant>Теплая дождливая</variant>
+      <variant>Прохладная дождливая</variant>
+      <variant right="true">Сухая ясная</variant>
+      <variant>Длительные заморозки</variant>
+    </variants>
+  </question>
+
+  <question seconds="9">
+    <text>Сколько человек находится одновременно на площадке при игре в пляжный волейбол?</text>
+    <variants>
+      <variant>Шесть</variant>
+      <variant>Восемь</variant>
+      <variant right="true">Четыре</variant>
+      <variant>Двенадцать</variant>
+    </variants>
+  </question>
+
+  <question seconds="10">
+    <text>С какой из этих стран Чехия не граничит?</text>
+    <variants>
+      <variant>Германия</variant>
+      <variant>Австрия</variant>
+      <variant right="true">Венгрия</variant>
+      <variant>Польша</variant>
+    </variants>
+  </question>
+
+  <question seconds="11">
+    <text>Где в основном проживают таты?</text>
+    <variants>
+      <variant>Татарстан</variant>
+      <variant>Башкортостан</variant>
+      <variant right="true">Дагестан</variant>
+      <variant>Туркменистан</variant>
+    </variants>
+  </question>
+
+  <question seconds="10">
+    <text>Как, в переводе на русский язык, звучало бы название фильма 'Мимино'?</text>
+    <variants>
+      <variant>Медведь</variant>
+      <variant>Гора</variant>
+      <variant right="true">Сокол</variant>
+      <variant>Любовь</variant>
+    </variants>
+  </question>
+
+  <question seconds="9">
+    <text>Как называется курс парусного судна, совпадающий с направлением ветра?</text>
+    <variants>
+      <variant>Бейдевинд</variant>
+      <variant>Галфинд</variant>
+      <variant right="true">Фордевинд</variant>
+      <variant>Бакштаг</variant>
+    </variants>
+  </question>
+
+  <question seconds="11">
+    <text>На вершине какой горы расположена сорокаметровая статуя Христа, являющаяся символом Рио-де-Жанейро?</text>
+    <variants>
+      <variant>Тупунгато</variant>
+      <variant>Уаскаран</variant>
+      <variant right="true">Корковадо</variant>
+      <variant>Ильимани</variant>
+    </variants>
+  </question>
+</questions>
